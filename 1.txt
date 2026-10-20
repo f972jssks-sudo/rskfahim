@@ -1,0 +1,14 @@
+Command line: /data/user/0/com.lulu.luluboxsuper/gameplugins/com.chiki.gg.online/files/test
+Command line: com.lulu.luluboxsuper:platform.gameplugin3.P05
+Command line: com.lulu.luluboxsuper:platform.gameplugin1.P04
+Command line: com.lulu.luluboxsuper:platform.gameplugin2.P03
+Command line: com.lulu.luluboxsuper:lbcore
+Command line: com.lulu.luluboxsuper:platform.gameplugin.P07
+Command line: com.lulu.luluboxsuper:platform.gameplugin.P01
+Command line: com.lulu.luluboxsuper:platform.gameplugin2.P07
+Command line: com.lulu.luluboxsuper
+Found empty or whitespace-only string for PID: 28534 (count: 1)
+Command line: 
+Command line: com.android.vending
+Command line: com.google.android.gms
+Command line: com.rovio.baba
